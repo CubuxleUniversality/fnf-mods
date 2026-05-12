@@ -4161,11 +4161,16 @@
 				]
 			]
 		],
-		"player2": "dad",
-		"song": "nilincident",
-		"needsVoices": false,
-		"stage": "stage",
-		"speed": 1.8,
-		"bpm": 93
+    "gfVersion": "gf-christmas",
+    "song": "nilincident",
+    "stage": "pigo",
+    "needsVoices": false,
+    "validScore": true,
+    "disableNoteRGB": true,
+    "splashSkin": "noteSplashes/Funkin_break",
+    "arrowSkin": "noteSkins/funky",
+    "speed": 1.8,
+    "bpm": 93,
+    "noteStyle": "pixel"
 	}
 }
